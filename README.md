@@ -47,11 +47,15 @@ value 0.4110
 
 <br/>
 
-# IMPROVED ROUND ROBIN SCHEDULING ALGORITHM |
+#  B)IMPROVED ROUND ROBIN SCHEDULING ALGORITHM |
 
 <br/>
 
 Operating Systems for time shared devices 
+
+<br/>
+
+<a href="https://github.com/Prashant43226/Novel-Round-Robin-Scheduling-Algorithm">LINK</a>
 
 <br/>
 
@@ -75,8 +79,13 @@ response time between processes.
 
 <br/>
 
-# Xmeme( An Intro to Web Development)
+# C)Career Launcher Machine Learning Internship
+<a href="https://github.com/Prashant43226/Machine-Learning-Project">LINK</a>
 
+# D)Xmeme( An Intro to Web Development)
+
+
+<a href="https://github.com/Prashant43226/Xmeme">LINK</a>
 <!---
 Prashant43226/Prashant43226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
